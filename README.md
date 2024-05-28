@@ -1,7 +1,4 @@
 # hello-world
-A repository for my future ideas and projects.  
-
-----
 #### Index
 | Emoji | Description |
 | :---: | :---------: |
